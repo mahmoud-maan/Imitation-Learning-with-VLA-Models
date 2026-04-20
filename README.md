@@ -12,7 +12,7 @@ To further explore imitation learning, I've been working with the **SO-101 Kit**
 
 ## Hardware Setup
 
-![SO-101 Robot Setup](/Imitation-Learning-with-VLA-Models/assets/robots-setup.png)
+![SO-101 Robot Setup](/assets/robots-setup.png)
 
 > *Open-source SO-101 Arm Kit from HuggingFace — annotated hardware components.*
 
